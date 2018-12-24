@@ -1,2 +1,2 @@
 # Leetcode  
-# Begin to practice
+## Begin to practice
